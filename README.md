@@ -1,28 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ashish Pratap Singh</h1>
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ashish%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSE%20%7C%20Full-Stack%20Web%20Development%20Learner&descSize=16&descAlignY=58" />
 
-<h3 align="center">
-  B.Tech CSE Student | Full-Stack Web Development Learner
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+projects+with+Node.js+%2B+Express+%2B+MongoDB;Learning+by+turning+concepts+into+real+apps;Curious+about+how+things+work+under+the+hood" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashish-p-singh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/ashish-p-singh?tab=followers"><img src="https://img.shields.io/github/followers/ashish-p-singh?style=for-the-badge&logo=github&label=Followers" alt="Followers" /></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm a B.Tech Computer Science student at LPU
-
-💻 I'm currently focused on Full-Stack Web Development
-
-🌱 I'm strengthening my JavaScript skills through exercises and projects
-
-🛠️ I'm building projects using Node.js, Express and MongoDB
-
-🐍 I also use Python for problem solving
-
-🗄️ I have experience working with PostgreSQL and MongoDB
-
-📚 Currently learning by turning concepts into real projects
-
-⚡ Fun fact: I enjoy understanding how things work under the hood
+🎓 B.Tech Computer Science student at **LPU**
+💻 Focused on **Full-Stack Web Development**
+🌱 Strengthening my JavaScript through exercises and projects
+🛠️ Building projects with **Node.js, Express and MongoDB**
+🐍 Using **Python** for problem solving
+🗄️ Experience with **PostgreSQL** and **MongoDB**
+📚 Learning by turning concepts into real projects
+⚡ **Fun fact:** I enjoy understanding how things work under the hood
 
 ---
 
@@ -80,4 +78,38 @@ JavaScript       ███████████████░░░░░  P
 Node.js          ████████████░░░░░░░░  Learning by Building
 Express.js       ████████████░░░░░░░░  Learning by Building
 MongoDB          ████████████░░░░░░░░  Learning by Building
-React            ░░░░░░░░░░░░░░░░░░░  Coming Next
+React            ░░░░░░░░░░░░░░░░░░░░  Coming Next
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish-p-singh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-p-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ashish-p-singh&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-p-singh&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ashish-p-singh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ Always building, always learning. Thanks for stopping by!</i>
+</p>
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
